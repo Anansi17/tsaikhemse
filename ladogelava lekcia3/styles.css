@@ -1,0 +1,101 @@
+﻿
+#div1{
+width: 164px;
+height: 46px;
+margin-top: 185px;
+margin-left: 401px;
+background-color: #ecf0f1;
+border-radius: 10px;
+text-align: center;
+line-height: 1.57;
+
+
+
+}
+
+#div2{
+margin-left: 401px;
+margin-top: 30px;
+width: 164px;
+height: 46px;
+border-radius: 10px;
+background-color: #badc58;
+text-align: center;
+border: 1px solid #badc58;
+line-height: 1.57;
+transition: 300ms ease;
+
+}
+#div3{
+margin-left: 401px;
+margin-top: 30px;
+width: 164px;
+height: 46px;
+text-align: center;
+background-color: #ffffff;
+border-radius: 10px;
+border: solid 1px #badc58;
+line-height: 1.57;
+transition: 300ms ease;
+}
+
+#a1{
+text-decoration: none;
+color: #bdc3c7;
+font-size: 14px;
+font-weight: normal;
+font-style: normal; 
+font-stretch: normal;
+letter-spacing: normal;
+padding-left: 27px;
+padding-right: 27px;
+padding-top: 15px;
+padding-bottom: 15px;
+vertical-align: middle;
+
+}
+
+
+
+#a2{
+text-decoration: none;
+color: #181818;
+font-size: 14px;
+font-weight: normal;
+font-style: normal;
+font-stretch: normal;
+letter-spacing: normal;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 47px;
+padding-right: 47px;
+}
+
+
+#div2:hover{
+background-color: #ffffff;
+transition: 300ms ease;
+}
+
+
+#a3{
+text-decoration: none;
+font-size: 14px;
+font-weight: normal;
+font-style: normal;
+font-stretch: normal;
+letter-spacing: normal;
+color: #badc58;
+padding-left: 44px;
+padding-right: 44px;
+padding-bottom: 15px;
+padding-top: 15px;
+}
+
+#div3:hover{
+background-color: #181818;
+transition: 300ms ease;
+}
+
+
+
