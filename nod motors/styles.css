@@ -1,0 +1,365 @@
+﻿*{
+    margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+}
+body {
+    max-width: 1084px;
+   margin: 0;
+   background-color: #e8f0f3;
+    
+  }
+  
+  header,
+  ul {
+    display: flex;
+  }
+header{
+    
+    width: 1366px;
+    height: 140px;
+    justify-content: space-between;
+    align-items: flex-start;
+    
+}
+.navi{
+  
+    
+    display: flex;
+    
+    justify-content: space-between;
+    width: 398px;
+    margin-top: 42px;
+    margin-right: 141px;
+}
+header img{
+    margin-left: 141px;
+    
+    margin-top: 25px;
+    
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.21;
+    letter-spacing: normal;
+    text-align: left;
+    color: #181818;
+    font-size: 14px;
+}
+.Cars1{
+    color: #6ab04c;
+}
+.book{
+    border-radius: 30px;
+    padding-left: 34px;
+    padding-right: 34px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    color: #ffffff;
+  background-image: linear-gradient(to bottom, #6ab04c, #badc58);
+}
+.hero{
+    
+    width: 100%;
+}
+h1{
+    font-size: 30px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #181818;
+  margin-top: 70px;
+  margin-left: 233px;
+}
+.lux{
+    font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  margin-left: 233px;
+}
+.hero img{
+    
+    width: 1366px;
+}
+.green-p{
+    font-size: 12px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.17;
+    letter-spacing: normal;
+    text-align: left;
+    color: #6ab04c;
+    position: absolute;
+    top: 618px;
+}
+.green1{
+    
+    left: 398px;
+    }
+    .green2{
+        left: 563px;
+        white-space: nowrap;
+    }
+    .green3{
+        left: 781px;
+    }
+    h2{
+        font-size: 30px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #181818;
+  position: absolute;
+  top: 632px;
+    }
+    .hp{
+        
+        left: 398px;
+    }
+.ph{
+    left: 563px;
+}
+.km{
+    left: 781px;
+}
+
+    
+.products{
+    background-color: #ffffff;
+    position: absolute;
+    width: 1366px;
+    top: 768px;
+    padding-top: 60px;
+    padding-bottom: 97px;
+   
+}
+h3{
+    font-size: 30px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #181818;
+  margin-left: 141px;
+}
+.use{
+    font-size: 10px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #95a5a6;
+  margin-left: 141px;
+}
+
+.product-list{
+    display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+         align-items: center;
+         text-align: center;
+}
+.list{
+    width: 348px; 
+}
+.listup{
+    margin-top: 100px;
+   
+}
+.listdown{
+    margin-top: 99px;
+}
+.listmiddle{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.from{
+    font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.17;
+  letter-spacing: normal;
+  color: #95a5a6;
+  text-align: left;
+margin-left: 184px;
+}
+.span1{
+    color: #6ab04c;
+}
+
+h4{
+    font-size: 20px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  color: #181818;
+  margin-top: 8px;
+}
+.mini{
+    font-size: 10px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #95a5a6;
+}
+.span2{
+    margin-left: 19px;
+}
+.dot{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.dotsame{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 5px;
+}
+.dot1{
+    width: 10px;
+    height: 10px;
+  border: solid 1px #95a5a6;
+  background-color: #ffffff;
+  margin-left: 0px;
+}
+.dot2{
+    background-color: #2a2b30;
+    
+}
+.dot3{
+    background-color: #aa071e;
+    
+}
+.dotorange{
+    background-color: #ff9331;
+    
+}
+.dotgrey{
+    background-color: #95a5a6;
+}
+.dotgreen{
+    background-color: #6ab04c;
+}
+.dotgold{
+    background-color: #d1bb3f;
+}
+.dotblue{
+    background-color: #2f6aa2;
+}
+
+.dotpink{
+    background-color: #ff664f;
+}
+
+select {
+    
+    width: 164px;
+    height: 40px;
+  border-radius: 30px;
+  box-shadow: 0 3px 6px 0 rgba(24, 24, 24, 0.06);
+  background-color: #ffffff;
+  padding-left: 31px;
+  outline: 0px;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.21;
+  letter-spacing: normal;
+  text-align: left;
+  color: #181818;
+  margin-top: 27px;
+  border: transparent;
+  
+  }
+
+  .slct1{
+      margin-left: 141px;
+  }
+  .slct23{
+      margin-left: 20px;
+  }
+  .green20{
+      margin-left: 480px;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.21;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    width: 72px;
+    height: 40px;
+    border-radius: 30px;
+    padding-left: 19px;
+    background-image: linear-gradient(to bottom, #6ab04c, #badc58);
+  }
+  
+  .slct2{
+      padding-left: 55px;
+  }
+  .slct3{
+      padding-left: 60px;
+  }
+  .icons{
+      
+      position: absolute;
+      top: 1660px;
+      width: 1084px;
+      background-color: #ffffff;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      padding-left: 141px;
+      padding-right: 141px;
+     
+      
+  }
+.footerspan{
+    margin-left: 20px;
+}
+.footerp{
+    font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.17;
+  letter-spacing: normal;
+  text-align: left;
+  color: #95a5a6;
+  margin-top: 5px;
+}
+
+ 
+ 
+
